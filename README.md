@@ -22,8 +22,7 @@ An app that helps seniors easily follow the instruction for the use of Kiosk in 
 
 
 ## :framed_picture: Demo
-
-![](https://github.com/EuniceNam/Flint/blob/main/Flint_Demo.gif)
+<img src="https://github.com/EuniceNam/Flint/blob/main/Flint_Demo.gif" width="300"/>
 
 ## :fireworks: Screenshots
 
